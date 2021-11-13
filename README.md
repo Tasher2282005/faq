@@ -33,3 +33,5 @@ git push
 (https://git-scm.com/)
 ### VS Code
 (https://code.visualstudio.com/)
+# Информация:
+[htmlSbook.ru/css3-animation](https://htmlSbook.ru/css3-animation/)
